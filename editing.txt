@@ -1,7 +1,4 @@
 <html!> 
-<<<<<<< HEAD
 <head> // comment Marko's Power
-=======
-<head> // comment Zoran's power
->>>>>>> a7544acf236c912951e824b51f30815327202edf
+
 </head>
